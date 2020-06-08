@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bluetooth Tracing PoC</string>
+
+    <string name="broadcast_device">Publicar dispositivo</string>
+    <string name="service_title">Dispositivo visible via Bluetooth</string>
+    <string name="service_text">This device is discoverable to others nearby.</string>
+    <string name="last_seen">Visto por última vez:</string>
+    <string name="just_now">justo ahora</string>
+    <string name="minute_ago">minuto atrás</string>
+    <string name="hour_ago">hora atrás</string>
+    <string name="seconds_ago">segundos atrás</string>
+    <string name="minutes_ago">minutos atrás</string>
+    <string name="hours_ago">horas atrás</string>
+    <string name="empty_list">No se encontró ningun dispositivo - refresca para volver a intentar.</string>
+    <string name="no_name">(???)</string>
+    <string name="my_id">Mi ID: %1$s</string>
+</resources>
